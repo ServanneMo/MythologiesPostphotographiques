@@ -1,0 +1,322 @@
+<!-- .slide: data-background-image="img/couv.png" -->
+<!-- .slide: class="hover"-->
+
+## *Mythologies Postphotographiques*
+
+<br>PUM, coll. "Parcours numériques"
+<br>Servanne Monjour (McGill University)
+
+
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<!-- .slide: data-background-image="img/barthes2modif.jpg" data-background-size="contain"-->
+
+
+## Mythologies...
+
+
+===
+laboratoire observatoire
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Suvee-dibutade.jpg" data-background-size="contain" -->
+
+
+===
+
+l'invention, l'origine des médias = parole performative ?
+Intermédialité : d'où émerge le média, qu'est-ce que le média fait émerger
+
+conjonctures médiatrices
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
+
+##...postphotographiques
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthesImageCode.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthesCoding.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2modif.jpg" data-background-size="contain" -->
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<!-- .slide: data-background-image="img/devTrays.png" -->
+### Inventaire avant destruction : <br>vers la fin de la révélation photographique ?
+
+source image : John Cyr, *Developer trays (2010 - ongoing)*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/lindanconnordtcyr.jpg" data-background-size="contain" -->
+
+source image : John Cyr, *Developer trays - Linda Connor (2011)*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/01-couple-with-female-ghost_1.jpg" data-background-size="contain" -->
+
+source image : William Hope - photographie spritite, vers 1910
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/montageRevelation.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Secundo_Pia_Turinske_platno_1898.jpg" data-background-size="contain" -->
+
+source image : Secondo Pia, photographie du Suaire de Turin, 28 mai 1898, 9h30.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BarbaraMensch.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+>Mais mon chagrin voulait une image juste, une image qui fût à la fois justice et justesse : juste une image, mais une image juste. Telle était pour moi la photographie du jardin d’Hiver.
+Pour une fois, la photographie me donnait un <font color="red">**sentiment aussi sûr que le souvenir, tel que l’éprouva Proust, lorsque se baissant un jour pour se déchausser, il aperçut brusquement dans sa mémoire le visage de sa grand-mère véritable, « dont pour la première fois je retrouvais dans un souvenir involontaire et complet la réalité vivante » (Proust, II, 756)**</font>. <p>(Barthes, *La Chambre claire*, p. 109)</p>
+
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/EddieAdams.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+>(<font color="red">**Je ne puis montrer la Photo du Jardin d’Hiver. Elle n’existe que pour moi**</font>. Pour vous, elle ne serait rien d’autre qu’une photo indifférente, l’une des mille manifestations du « quelconque » ; elle ne peut en rien constituer l’objet visible d’une science ; elle ne peut fonder une objectivité, au sens positif du terme ; tout au plus intéresserait-elle votre studium : époque, vêtements, photogénie ; mais en elle, pour vous, aucune blessure.) <p>(Barthes, *La Chambre claire*, p. 115)</p>
+
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/the-lazarus-project-Featured-Image.jpg" data-background-size="contain" -->
+
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/lazzarus2p.53.png" data-background-size="contain" -->
+
+
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008, p. 53.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Lazarusdead.jpg" data-background-size="contain" -->
+
+
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/siteHemonglobalvue.png" -->
+<!-- .slide: class="hover"-->
+
+
+source image : Aleksandar Hemon, *The Lazarus Project*, capture d'écran site web.
+
+<!-- .element: class="source" -->
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/UdeMretouche.png" -->
+
+
+## Ça n'a pas été <br>(mais ça aurait pu) : <br>de la remédiation à la rétro-médiation
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/UdeM1.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/UdeM2.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/UdeM3.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couvertureRahimi.jpeg" data-background-size="contain" -->
+
+source image : Atiq Rahimi, <br>*Le retour imaginaire*, POL, 2005.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+
+source image : Atiq Rahimi, <br>*Le retour imaginaire*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnfantSoldat.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+>Devant l’appareil, il faut rester immobile, retenir son souffle. La mort en exercice. <p>(Rahimi, 2005 p. 25)</p>
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+source image : Atiq Rahimi, <br>*Le retour imaginaire*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnfantSoldat.jpg" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/afhanBox.jpg" -->
+
+source image : Lukas Birk et Sean Foley, <br>*Box camera photographs from Hekmatyullah's collection*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnfantSoldat.jpg" -->
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain" -->
+
+## Voir et savoir à l'ère numérique : la condition anamorphique du réel
+
+source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
+
+<!-- .element: class="source" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/holbein.jpeg" data-background-size="contain"-->
+
+source image : Holbein, *Les ambassadeurs*, 1533.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/daliRemorse.jpg"data-background-size="contain" -->
+
+source image : Dali, *Remorse, or Sphinx Embedded in the Sand*, 1931.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/page_d_accueil_opt-2-edfe3.png" data-background-size="contain"-->
+
+* Panoptisme (tout voir?)
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
+
+* Pixel (le détail)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Duchamp.jpg" -->
+
+source image : Duchamp, *Étant donnés*, 1946-1966.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EtantDonees2.png" -->
+<!-- .slide: class="hover"-->
+
+>**Nous sommes aujourd’hui très précisément dans cette situation : les données nous font la promesse de pouvoir tout voir, mais on oublierait assez facilement qu’il existe un point aveugle, que tout n’est pas si évident dans cette visibilité triomphante, et que peut-être il est nécessaire de venir éclairer le plein jour d’une autre lumière, poétique, politique, pour briser l’évidence du « tout est donné ».**
+<p> Cécile Portier, « Étant donnée : une fable poétique sur le régime de notre identité numérique », 2016.</p>
+
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+source image : Cécile Portier, *Étant données*, 2014.
+
+<!-- .element: class="source" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
+
+## Conclusion <br> Une herméneutique de la révélation
+
+
+source image : Clément Valla, _Postcards from Google Earth_.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/postcardfromGE.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
+>**La philosophie de la photographie a pour tâche de réfléchir à cette possibilité de la liberté - et par là-même de l'interprétation - dans un monde dominé par les appareils.**
+><p>Vilem Flusser, *Philosophie de la photographie*</p>
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/8_loeil2320.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+>**Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.**
+><p>Anne-Marie Garat, *Chambre Noire*</p>
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/8_loeil2320.jpg" data-background-size="contain"-->
