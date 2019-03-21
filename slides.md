@@ -19,17 +19,19 @@
 
 
 ===
-Explication du titre :
-- Référence à Roland Barthes, of course...  
-- littérature, discours littéraire conçu comme un observatoire mais aussi un laboratoire des médias : c'est-à-dire que le discours participe à leur construction
-- Jérôme Thélot a parlé d'invention littéraire des médias, dessinant un cercle heuristique qui, à mon sens, peut s'appliquer à tout média quel qu'il soit.
+Commencons par expliquer un peu ce titre :
+Mythologies...
+- Fait bien sûr référence à Roland Barthes qui, avec la CC, nous aura offert l'un des premiers textes de la théorie photolittéraire...  
+- Le terme de mythologie insiste par ailleurs sur la façon de la littérature, ou du moins le discours littéraire, peut être conçu non seulement comme un observatoire mais aussi comme un laboratoire des médias : c'est-à-dire que l'écriture littéraire aura participé à la construction de la photographie.
+- Jérôme Thélot a parlé d'invention littéraire des médias, dessinant un cercle heuristique qui, à mon sens, peut s'appliquer à tout média quel qu'il soit. jean-Pierre Montier parle aussi de Transactions, pour désigner cette négociation particulière qui s'est menée depuis les années 1840 entre la littérature et la photo.
+- - Évidemment, aujourd'hui la photographie est un média en pleine réinvention. Les mutations techniques de la photo sont en train de générer de nombreux récits, qui tentent de comprendre la fin (supposée) d'une technologie (l'argentique) et la naissance d'une nouvelle (le numérique).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Suvee-dibutade.jpg" data-background-size="contain" -->
 
 
 ===
-Dibutade et l'intermédialité
+Ce texte s'inscrit au croisement des études littéraires et d'un autre champ de recherche : celui de l'intermédialité.
 
 Intermédialité au sens d'une "école" montréalaise -influence de McLuhan, Zumthor, Moser etc.
 
@@ -39,9 +41,11 @@ Définition strictement non-essentialiste des média, conçu comme des construct
 
 On parlera ainsi de "conjonctures médiatrices".
 
-Dibutade = mythe de l'invention, l'origine des arts.
+Pour comprendre ce qu'est l'intermédialité, on peut prendre pour exemple le mythe de Dibutade = mythe de l'invention, l'origine des arts. Selon la légende, rapportée par Pline, Dibutade aurait inventé le dessin en traçant contre un mur le profil de son amant, suivant les contours de son profil projeté... déjà une image issue de l'empreinte de la lumière.
 
-Étudier Dibutade nous amène à questionner la médiation originaire – où l’on voit déjà poindre un paradoxe : une médiation peut-elle seulement se constituer elle-même comme une origine, alors même qu’elle présuppose un précédent ?
+On ne connait généralement que les grandes lignes du mythe de Dibutade, convoquée dans de nombreux ouvrages théoriques sur l'art, pour introduire une réflexion théorique sur l'ontologie des images. Dibutade est un mythe sur les débuts de l'art, qui justement occupe lui-même une place liminaire dans les écrits sur l'art.
+
+Étudier le mythe de Dibutade nous amène à questionner la médiation originaire – où l’on voit déjà poindre un paradoxe : une médiation peut-elle seulement se constituer elle-même comme une origine, alors qu’elle présuppose un précédent ? C'est à ce type de questionnement que l'on se frotte lorsque l'on s'inscrit dans le champ de l'intermédialité, mais aussi la photolittérature.
 
 Ne serait-ce pas finalement dans le discours – et en particulier dans la puissance performative du discours – que naissent les médias ? La question mérite d’être posée à l’heure où nous multiplions les récits sur l’origine et l’essence du numérique, pressés d’inventer un média qui, justement, n’existe pas.
 
@@ -55,13 +59,16 @@ Ne serait-ce pas finalement dans le discours – et en particulier dans la puiss
 
 La postphotographie est un concept qui est d'abord né au sein de la critique et de la théorie nord-américaine, au tout début des années 90, pour désigner un genre d'image nouveau, qui devait forcément se distinguer de l'argentique.
 
-Remédiation comme rupture, à une époque où l'on aime particulièrement le préfixe "post", attaché un peu partout.
+La "Remédiation" était alors conçue comme une rupture radicale, à une époque où l'on aime particulièrement le préfixe "post", attaché un peu partout.
 
-Le point de rupture était, selon les premier théoriciens de la postphotographie, la prétendue fin d'une tout aussi prétendue indicialité, remplacée par le langage informatique.
+Le point de rupture était, selon les premier théoriciens de la postphotographie, la prétendue fin d'une tout aussi prétendue indicialité, remplacée par le langage informatique - qui donnait lieu à des images "virtuelles", conçues ex-nihilo, des constructions informatiques plutôt que des empreintes du réel.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
 
+===
+
+Petite expérience de Kenneth Goldmisth
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthesImageCode.png" data-background-size="contain" -->
@@ -98,9 +105,6 @@ Comme François Bon, de nombreux écrivains ont vite compris que les mutations t
 
 Que la photographie numérique soit utilisée comme un carnet de notes (chez Bon, par exemple) ou un embrayeur de récit (comme chez Anne Savelli), elle semble quoiqu'il en soit accentuer la tentation d'exercer une écriture hybride, mêlant le textuel au visuel, traduisant au final une nouvelle manière de voir le monde, comme l'a souligné Pierre Ménard.
 
-Aussi sommes-nous tentés de nous poser une question : ces mutations spectaculaires des pratiques photographiques feraient-elles du même coup évoluer ce champ très récent que l'on appelle la « photolittérature », donnant déjà naissance, pourquoi pas, à une « post-photolittérature » ou encore à une « pixelittérature » pour reprendre ici le terme récemment proposé par Gilles Bonnet ?
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthes2modif.jpg" data-background-size="contain" -->
 <!-- .slide: class="hoover" -->
@@ -108,6 +112,10 @@ Aussi sommes-nous tentés de nous poser une question : ces mutations spectaculai
 ### Une post-photolittérature ?
 * nouveaux mythes ou plutôt mythes de la nouveauté médiatique ?
 * nouvelles poétiques ?
+
+===
+Aussi sommes-nous tentés de nous poser une question : ces mutations spectaculaires des pratiques photographiques feraient-elles du même coup évoluer ce champ très récent que l'on appelle la « photolittérature », donnant déjà naissance, pourquoi pas, à une « post-photolittérature » ou encore à une « pixelittérature » pour reprendre ici le terme récemment proposé par Gilles Bonnet ?
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -140,10 +148,31 @@ source image : John Cyr, *Developer trays - Linda Connor (2011)*
 
 ===
 
+John Cyr parcourt depuis 10 ans le monde à la recherche des bains révélateurs.
+
 Ce qui m'intéresse avec un travail comme celui-ci, c'est qu'il démontre exactement le contraire de ce qu'il annonce:
 - si la révélation, comme processus technique, photochimique, est bel et bien de moins en moins pratiquée
 - la révélation comme mythe, comme heuristique et comme poétique, est quant à elle encore très vivante
 - la révélation est devenue photographique au-delà même du photochimique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/FromHereOnManifesto.jpg" data-background-size="contain" -->
+
+
+source image : Manifeste *From Here On* Rencontres d'Arles 2011
+
+<!-- .element: class="source" -->
+
+===
+
+Parallèlement, on se doit de redéfinir ce que l'on entend pas numérique. Le numérique n'est pas qu'un outil, c'est une culture.
+
+Dans la tradition ouverte par les communautés de codeurs, cette culture numérique se caractérise par :
+* Conversation
+* Pratique de réécriture/ COpier/coller - on parlera de plagiat, c'est bcp de l'appropriationnisme
+* Pratique ludique très forte
+
+D'où une nouvelle définition de la postphotographie, qui n'est plus la postphoto très technologique des années 1990, mais qui est plutôt celles des grandes plateformes d'échange des images.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -157,6 +186,9 @@ source image : Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
 
 L'autre postphotographie = écologie des images
 
+La technique importe moins que les connotations associées à ces techniques.
+
+Plus de recherche de la prouesse informatique, mais un jeu et un dialogue avec les formes du passé (photographiques ou picturales).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/deconstructing.jpg"data-background-size="contain"  -->
@@ -165,6 +197,12 @@ source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
 
 <!-- .element: class="source" -->
 
+===
+
+Fontcuberta : travail de canular photolittéraire. Fontcuberta est intéressant car il a débuté sa pratique photo avec l'argentique, et fait aujourd'hui du numérique.
+
+Mais son combat reste le même : dénoncer le faux certificat d'authenticité de la photo, jouer avec l'autorité du média photo.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/meccacola.jpg" data-background-size="contain" -->
 
@@ -172,6 +210,11 @@ source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
 
 <!-- .element: class="source" -->
 
+===
+
+Travail de la Fake news avant l'heure.
+
+Il démontre que la fake news s'appuie sur des formes plastiques et rhétorique qui connotent une certaine objectivité - mais on reste ici dans des effets rhétoriques et des connotations.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ManbaaMokfipleinepage.jpg" data-background-size="contain" -->
@@ -180,6 +223,13 @@ source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
 
 <!-- .element: class="source" -->
 
+===
+
+Un texte illisible, qui fait image...
+
+Seules les images, notre culture visuelle, permet de faire émerger un sens, pour le coup trompeur.
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/UdeMretouche.png" -->
 <!-- .slide: class="hover" -->
@@ -187,7 +237,10 @@ source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
 ## Remédiation photonumérique : ceci tuera cela ? </br>(courte introduction à la rétro-médiation)
 
 * Remédiation : disparition ou réinvention ?
-* Les "effets" argentiques
+* Pourquoi aime-t-on autant les "effets" argentiques ?
+
+===
+Deuxième axe de réflexion = le concept de remédiation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
@@ -214,6 +267,18 @@ source image : PixlR-omatic
 source image : PixlR-omatic
 
 <!-- .element: class="source" -->
+
+===
+
+Mon cliché n'est pas une photographie argentique, c'est une image de la photographie argentique.
+
+Plus précisément, c'est un barbarisme technologique : jamais l'argentique n'a existé de cette manière.
+
+Le numérique puise beaucoup dans les formes argentiques, mais pour réécrire l'histoire de l'argentique.
+
+L'argentique a donc aussi été inventée en partie par le numérique, en ce sens où celui-ci lui inspire de nouvelles significations et connotations.
+
+C'est ce que j'ai appelé la rétromédiation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couvertureRahimi.jpeg" data-background-size="contain" -->
@@ -253,7 +318,25 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 
 <!-- .element: class="source" -->
 
+===
 
+Question un peu plus épistémologique.
+
+Si je me suis intéressée à la révélation, c'est notamment parce que cette exigence ontologique que l'on a souvent eue à l'égard de la photographie, me semble aujourd'hui connaître un rebond, à l'ère numérique où l'on s'interroge sur la distinction réel/imaginaire.
+
+Je suis partisane de l'hypothèse de la continuité plutôt que de la rupture nette et franche.
+
+Mais force est de constater tout de même que notre culture connaît des mutations majeures. La place occupée aujourd'hui par les images, et notamment les photos, est symptomatique d'un sentiment que beaucoup de gens partagent : L'image du monde tend à se substituer au monde lui-même.
+
+Tout ce travail sur la révélation avait pour but de penser un modèle pour comprendre les mutations de la problématique ontologique à l’ère du numérique.
+
+Après avoir mis l’accent, dans les années 1990, sur la distinction entre réel et virtuel, les études consacrées au fait numérique ont plutôt cherché ces dernières années à mettre en évidence la fusion, ou l’hybridation, des espaces numériques et non numériques (Floridi, 2014 ; Vitali-Rosati, 2016).
+
+Ce que récusent ces travaux, ce sont en particulier les connotations et les valeurs associées à cette distinction ontologique, qui semblent suggérer que tout ce qui se manifeste à l’écran est moins réel, moins vrai que ce qui existe en dehors de nos écrans.
+
+Je suis plutôt d'accord avec ces théories, mais j'ai quelques difficultés avec le principe de fusion qu'elles supposent. Car il y a tout de même selon moi des différences - et en cela ma réflexion ontologique doit aussi beaucoup à la philosophie analytique (De Lande, ou encore la notion d'ontologie "plate").
+
+J'ai essayé de "résoudre" mon problème avec une autre figure = celle de l'anamorphose.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
@@ -266,13 +349,10 @@ source image : Holbein, *Les ambassadeurs*, 1533.
 
 <!-- .element: class="source" -->
 
+===
+Si le numérique n’a probablement pas fondamentalement changé la nature des images, il apporte en revanche un éclairage inédit sur le fait photographique.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/daliRemorse.jpg"data-background-size="contain" -->
-
-source image : Dali, *Remorse, or Sphinx Embedded in the Sand*, 1931.
-
-<!-- .element: class="source" -->
+Voir n’a plus tout à fait la même signification qu’avant, et notre manière de concevoir le réel s’en trouve à son tour affectée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/great_globe-22876.png" data-background-size="contain"-->
