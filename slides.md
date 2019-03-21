@@ -100,13 +100,24 @@ Que la photographie numérique soit utilisée comme un carnet de notes (chez Bon
 
 Aussi sommes-nous tentés de nous poser une question : ces mutations spectaculaires des pratiques photographiques feraient-elles du même coup évoluer ce champ très récent que l'on appelle la « photolittérature », donnant déjà naissance, pourquoi pas, à une « post-photolittérature » ou encore à une « pixelittérature » pour reprendre ici le terme récemment proposé par Gilles Bonnet ?
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barthes2modif.jpg" data-background-size="contain" -->
+<!-- .slide: class="hoover" -->
+
+### Une post-photolittérature ?
 * nouveaux mythes ou plutôt mythes de la nouveauté médiatique ?
 * nouvelles poétiques ?
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 <!-- .slide: data-background-image="img/devTrays.png" -->
+<!-- .slide: class="hover"-->
+
 ### Inventaire avant destruction : <br>révélation photographique, la fin d'un mythe ?
+
+* À quoi bon (encore) la révélation ?
+* La postphotographie : fin de l'indexation ?
 
 source image : John Cyr, *Developer trays (2010 - ongoing)*
 
@@ -147,21 +158,36 @@ source image : Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
 L'autre postphotographie = écologie des images
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/deconstructing.jpg"data-background-size="contain"  -->
+
+source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/meccacola.jpg" -->
+<!-- .slide: data-background-image="img/meccacola.jpg" data-background-size="contain" -->
+
+source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
+
+<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ManbaaMokfipleinepage.jpg" -->
+<!-- .slide: data-background-image="img/ManbaaMokfipleinepage.jpg" data-background-size="contain" -->
 
+source image : Joan Fontcuberta, *Deconstructing Osama*, 2007 (non paginé)
+
+<!-- .element: class="source" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/UdeMretouche.png" -->
+<!-- .slide: class="hover" -->
 
+## Remédiation photonumérique : ceci tuera cela ? </br>(courte introduction à la rétro-médiation)
 
-## Remédiation photonumérique : ceci tuera cela ? <br>(courte introduction à la rétro-médiation)
-
+* Remédiation : disparition ou réinvention ?
+* Les "effets" argentiques
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
@@ -192,6 +218,7 @@ source image : PixlR-omatic
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couvertureRahimi.jpeg" data-background-size="contain" -->
 
+
 source image : Atiq Rahimi, <br>*Le retour imaginaire*, POL, 2005.
 
 <!-- .element: class="source" -->
@@ -215,8 +242,12 @@ source image : Atiq Rahimi, <br>*Le retour imaginaire*
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
-## Un monde virtuel ? (de la condition anamorphique du réel)
+## Un monde virtuel ? </br>(de la condition anamorphique du réel)
+
+* Que signifie (sa)voir à l'ère numérique ?
+* Quel modèle ontologique ?
 
 source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 
@@ -245,10 +276,10 @@ source image : Dali, *Remorse, or Sphinx Embedded in the Sand*, 1931.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/great_globe-22876.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
-<!--- .slide: class="hover"-->
 
-* Actualités du panoptisme (peut-on vraiment tout voir?)
+* Actualités du panoptisme : peut-on vraiment *tout* voir?
 
 Source : Google Earth
 
@@ -262,17 +293,12 @@ Source : Google Earth
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
-
-Source: Étant donnée (capture)
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/pixelsPJ.mp4" -->
+<!-- .slide: class="hover" -->
 
-* Pixel (le nouveau punctum ?)
+* Le pixel : un nouveau punctum ?
 
 source video: Patrick Jean, _Pixels_.
 
@@ -285,15 +311,18 @@ source video: Patrick Jean, _Pixels_.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mondot2.jpg" -->
+<!-- .slide: class="hover" -->
 
-* Le hack (l'imaginaire du code)
+* Le hack : de l'imaginaire à la poétique du code
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Mondot.jpg" -->
+<!-- .slide: class="hover" -->
 
-><p>cette langue des bits à deux valeurs, zéro et un où l’horreur est enfin résolue, aseptisée, irréfutable dans sa pureté...</p><p>Anne-Marie Garat, programme sensible</p>
+>**...cette langue des bits à deux valeurs, zéro et un où l’horreur est enfin résolue, aseptisée, irréfutable dans sa pureté...**</p><p>Anne-Marie Garat, programme sensible</p>
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 
@@ -301,15 +330,16 @@ métaphore de l'ADN
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
+<!-- .slide: class="hover" -->
 
-* Éditorialisation (écrire le réel)
+* L'éditorialisation : Réécrire la réalité numérique
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
 
-## Conclusion <br> Une herméneutique de la révélation
+## De l'argentique au numérique : une même herméneutique de la révélation
 
 
 source image : Clément Valla, _Postcards from Google Earth_.
