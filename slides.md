@@ -406,7 +406,7 @@ source video: Patrick Jean, _Pixels_.
 
 ===
 
-métaphore de l'ADN
+métaphore de l'ADN.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
