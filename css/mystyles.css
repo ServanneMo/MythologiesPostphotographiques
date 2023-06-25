@@ -320,13 +320,13 @@ body {
 
 .source {
     color: ghostwhite;
-    background-color: #E30800;
+    background-color: #F07B69;
     float: right;
     text-align: center;
-    position: relative;
+    position: absolute;
     width: 400px;
-    left: 100px;
-    top: 250px;
+    right: 0px;
+    bottom: -2em;
 }
 
 p.source {
