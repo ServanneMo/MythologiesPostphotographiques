@@ -112,7 +112,7 @@ Mythologies...
 
 - Fait bien sûr référence à Roland Barthes qui, avec la CC, nous aura offert l'un des premiers essais photolittéraire... *La Chambre claire* a exercé et exerce encore sur les études littéraires une influence majeure. Il s'agit d'un texte qui s'est révélé très problématique pour moi, à de nombreux égards : d'une part, et même si cela peut semble anecdotique, il paraît en 1981, date à laquelle Sony lance son MAvica, premier appareil photo numérique lancé sur le marché, à destination du grand public. Certes, il faudra quelques années pour que l'appareil numérique s'impose, mais un mouvement de transition est lancé. D'autre part, le texte de Barthes, qui je l'ai dit relève à mon sens de l'essai littéraire (et moins de la théorie), essai impregné par le deuil que traverse alors Barthes, s'avère assez rapidement dépassé face aux travaux sur lesquels je me suis appuyée, en *visual studies* ou en *media studies* (Bolter & Grusin ; William Mitchel ; Henry Jenkins...). La mélancolie et la gravité de l'ouvrage ne collait pas non plus aux récits photolittéraires et aux oeuvres photographiques qui m'intéressaient, et qui avaient dévoloppé un rapport ludique à l'image. 
 
-Dans les textes que je lisais, et que je lis encore, la photo n'est pas toujours "ce qui a été", loin de là. Elle conjugue et détourne l'expression de Barthes : "ça aurait pu être", "ça n'a pas été", "ça pourra être".
+Or dans mon corpus, la photo n'est pas toujours "ce qui a été", loin de là. Elle conjugue et détourne l'expression de Barthes : "ça aurait pu être", "ça n'a pas été", "ça pourra être". Le statut de l'image -- comme celui du réel, auquel cette image est suposée se référer ou "adhérer", dirait Barthes -- n'a jamais rien d'une évidence. Je dirais même que l'image est sans cesse convoquée avec une certaine dose de suspition, d'ironie, bref avec une distance bien marquée, qui vient systématiquement créer une tension. Je précise qu'il ne s'agit pas tant de se méfier de l'image photographique, que de l'image du réel -- du réel en tant qu'image. 
 
 - Sous ce terme de mythologie, il s'agit d'insister par ailleurs sur la façon de la littérature, ou du moins le discours littéraire, peut être conçu non seulement comme un observatoire mais aussi comme un laboratoire des médias : c'est-à-dire que l'écriture littéraire aura participé à la construction de la photographie. Ce qui se joue ici, c'est le pouvoir de la littérature à déterminer concrètement l'imaginaire et donc les usages et la pratiques de la photographie.
 
@@ -120,11 +120,8 @@ Dans les textes que je lisais, et que je lis encore, la photo n'est pas toujours
 
 Bref, la thèse que je soutiens, dans le sillage des *media studies* et des études intermédiales, peut sembler assez osée, car elle renverse quelque peu la vapeur : Ne serait-ce pas finalement dans le discours – et en particulier dans la puissance performative des discours – que naissent les médias ? La question mérite d’être posée à l’heure où nous multiplions les récits sur l’origine et l’essence du numérique, pressés d’inventer un média qui, justement, n’existe pas.
 
-En résumé, je me suis donc intéressée à l'invention littéraire de la photographie à un moment où celle-ci, justement, était en pleine réinvention. 
-
-Récits de la fin, récit de l'invention... les oeuvres auxquelles je me suis intéressée questionnent les conséquences d'une mutation de l'image comme de notre rapport à l'image, sous la pression de fait numérique.
-
-Et ce qui se dessine avec ces questionnements, c'est à la fois notre rapport à un objet très familier et structurant (la photographie, c'est la photo ou l'album de famille, c'est la photo d'identité), et notre rapport au réel. Mes travaux sont traversés par un questionnement ontologique que j'ai abordé à la fois très naïvement et naïvement.
+Récits de la fin, récit d'invention, récits prophétiques... Comment la littérature invente un média en pleine réinvention ?
+Qu'est-ce qu'elle fait, également, des images numériques et de leur nouvelle économie -- puisqu'il faut à présent aborder ici les caractéristiques techniques de l'image numérique, et la façon dont elles sont envisagées par la critique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/azizCucher.jpg" data-background-size="contain" -->
@@ -209,11 +206,16 @@ source image : Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
 Après la tentation apocalyptique qui caractérisait la postphotographie dans les années 1990, les artistes contemporains ouvrent la voie à une piste ludique, où l’« après » ne renvoie nullement au rejet du vieux média ni même à l’édification d’un art mutant, mais à ce jeu constant avec les usages et les formes du passé et avec le réel. 
 
 
-L'autre postphotographie = écologie des images
+L'autre postphotographie = écologie des images, sur le mode du recyclage, de l'emprunt. 
+Des penseurs importants de ce mouvement : Joan Fontcuberta, Martin Parr... Bref, des praticiens également. Mais plus largement, il s'agit aussi de s'ancrer dans le tournant performatif des *media studies*, porté par des chercheurs tels qu'Irina Rajewski, pour ne citer qu'un seul exemple.
 
-La technique importe moins que les connotations associées à ces techniques.
+Dans ce mouvement, on va retrouver deux tendances :
 
-Plus de recherche de la prouesse informatique, mais un jeu et un dialogue avec les formes du passé (photographiques ou picturales).
+- d'abord, des photographes "sans appareil", ou du moins des photographes qui ne photographient pas, ou pas toujours, mais se servent directement dans le vivier des images publiées en ligne. Esthétique du mash-up, du montage, du remix. Il en va de même dans les pratiques littéraires, je vous en montrerai un exemple dans un moment avec Anne Savelli et Pierre Ménard, qui on produit une oeuvre photolittéraire sans prendre de photo eux-mêmes, mais en réalisant une série de captures d'écran.
+
+- d'autre part, on va trouver les photographes ou les écrivains qui au contraire photographient tout, tout le temps. Et du même coup, qui publient (presque) tout, (presque) tout le temps. Il faut dire que la photo, dans l'écosystème numérique, doit être pensée à l'aune des réseaux sociaux, qui constituent un système de publication sans précédent (publier au sens premier du terme : rendre public). 
+
+C'est le cas par exemple de F. BON
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -228,9 +230,9 @@ Plus de recherche de la prouesse informatique, mais un jeu et un dialogue avec l
 
 ===
 
-Des appareils toujours plus petits, maniables et connectés, des flux de photos échangés en direct sur les réseaux sociaux, des applications permettant de modifier nos images à l'aide de filtres...
+AUjourd'hui, Bon est devenu un écrivain qui travaille entièrement avec les images. C'est un vlogueur avant tout.
 
-Comme François Bon, de nombreux écrivains ont vite compris que les mutations techniques de la photographie allaient transformer non seulement nos pratiques photographiques, mais aussi le statut, la valeur et même le sens de l'image.
+Et c'est sans doute l'une des mutations les plus complexes à saisir de la photolittérature aujourd'hui : elle se déploie dans des espaces de publication entièrement consacrés à l'image : Instagram, Twitter dans une moindre mesure.
 
 Aussi sommes-nous tentés de nous poser une question : ces mutations spectaculaires des pratiques photographiques feraient-elles du même coup évoluer ce champ très récent que l'on appelle la « photolittérature », donnant déjà naissance, pourquoi pas, à une « post-photolittérature » ou encore à une « pixelittérature » pour reprendre ici le terme récemment proposé par Gilles Bonnet ?
 
@@ -415,6 +417,8 @@ En conclusion, l'usage du sténopé se conçoit moins comme une stratégie de r�
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## Reconfiguration du [sa]voir ? Vers une structure anamorphique du réel
+
+![](img/postcardsvalla-35d9b.jpg)<!-- .element: style="width:600px" -->
 
 
 ===
@@ -605,7 +609,338 @@ cubiste pourrait par exemple le proposer. L’anamorphose, en ce sens, n’essai
 simplement un modèle conceptuel où cette problématique n’a plus lieu d’être.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover" -->
 
 ## Photolittérature et humanités numériques : nouveaux enjeux méthodologiques
+
+![](img/pixplot-umap.png)<!-- .element: style="width:600px" -->
+
+===
+
+Pour terminer, un mot rapide sur les enjeux méthodologiques que peut poser l'étude de ces corpus photolittéraires un peu inédits.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Cas d'étude : </br>la fabrique de *Musée Marilyn* </br>d'Anne Savelli
+
+![](img/musée-marilyn-bnf.jpg)<!-- .element: style="width:300px" -->
+
+
+
+===
+
+*Musée Marilyn* est le 13e ouvrage d'Anne Savelli, il a été publié en 2022 aux éditions Inculte [@savelli_musee_2022]. 
+
+Comme l'indique son titre, le roman se conçoit comme un véritable musée -- il s'agit d'une exposition fictive, consacrée à l'actrice Marilyn Monroe, ou plus précisément aux photographies de Marilyn Monroe. 
+
+Élément notable: aucune illustration photographique ne figure dans *Musée Marilyn*, qui propose un fin travail d'ekphrasis ou de description de l'image photographique.
+
+Il s'agit autrement dit d'un récit sur la photo, mais sans photo, et vous verrez que ce détail a toute son importance.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/VolteFaceRemue.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+Source : « Volte-Face », *Remue.net* (2015)
+
+<!-- .element: class="source" -->
+
+===
+
+Récit-fleuve de 500 pages, *Musée Marilyn* est le fruit de près de huit années de travail de recherche et d'écriture, un vaste chantier qu'Anne Savelli a pris soin de documenter et de publier en ligne, sous de multiples formes: un premier feuilleton, intitulé « Volte-Face », est publié dès 2015 dans la revue littéraire en ligne Remue.net... 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/sasEcritureCollaborative.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+Source: Fenêtre Open Space (2018-2020)
+
+<!-- .element: class="source" -->
+
+
+===
+
+un travail d'écriture collectif et les premières pages du livre sont par ailleurs diffusées sur son site personnel (Fenêtre Open Space), qui accueille également d'autres textes de l'autrice.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/marilyn.addictInstaslow.mp4" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+Source: Compte Instagram @annesavelli
+
+<!-- .element: class="source" -->
+
+
+===
+
+Surtout, une iconothèque (une collection d'images), qui servira de matière première à l'élaboration du récit, est peu à peu constituée et diffusée, selon une démarche elle-même à caractère archivistique (car il est important de préciser que la littérature numérique est étroitement préoccupée par la question de l'archive, aussi bien pour des raisons poétiques que mémorielles). Pendant toutes ces années, Anne Savelli a amassé une impressionnante collection d’images numériques et numérisées, partagée avec ses lecteurs sur un canal essentiellement numérique.
+
+<!--Outre les numérisations de photographies d’époque – photos de mode, photographies documentaires, archives privées – la collection comprend de nombreuses « manifestations » visuelles de l’actrice : affiches collées dans l’espace public, produits dérivés, etc. -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/montageReseaux.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+Sources : réseaux sociaux
+
+<!-- .element: class="source" -->
+
+
+===
+
+Cette iconothèque procède surtout d'un investissement des plateformes sociales, d’abord Facebook, puis Twitter et enfin Instagram, que l'autrice utilise tant pour exposer sa collection.... 
+
+<!--Sources : Page Facebook *Marilyn Everywhere*; Compte Twitter @Athanorster; Comptes Instgram @annesavelli et @marilynaddict-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/MarilynEverywhere20-12-19.png" data-background-size="contain" -->
+
+Source: Un post sur le groupe Facebook *Marilyn Everywhere*
+
+<!-- .element: class="source" -->
+
+
+===
+
+... que pour l’enrichir, à l’aide des contributions de ses lecteurs-followers.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Une littérature éditorialisée
+* effet "chantier" (processuel et dynamique)
+* travail ouvert au collectif ou à la participation
+* dissémination dans l'espace numérique et non numérique
+* dissémination dans le temps (publication encore ouverte)
+* un nouveau réalisme littéraire (écriture des données, écriture documentaire & brouillage de la frontière réel / fiction)
+
+<!-- .element: style="font-size:1.5rem;" -->
+
+
+===
+
+À bien des égards, le projet Marilyn d’Anne Savelli (on justifiera dans un instant ce terme "projet") apparaît comme un cas d’école d'une littérature éditorialisée : elle se définit comme un vaste chantier processuel, collectif, disséminé dans l'espace numérique (plateformes littéraires, réseaux sociaux) et non numérique, et potentiellement infini, puisqu'Anne Savelli publie encore, aujourd'hui, sur les réseaux sociaux et sur son site, des contenus à propos de Marilyn. 
+
+À ces caractéristiques formelles s'ajoute un brouillage de la frontière entre l'écriture fictionnelle et l'écriture du réel, signe d'un nouveau réalisme littéraire que l'on voit émerger depuis quelque temps et qui ne manque pas de faire débat dans notre champ disciplinaire -- mais c'est un autre sujet.
+
+Plurimédiatique, disséminé sur plusieurs années et sur plusieurs plateformes, le travail d'Anne Savelli a quelque chose d'insaisissable. Et pourtant, nous avons voulu relever le défi d'en constituer un corpus exhaustif.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+#### vers un corpus *situé*
+
+&nbsp;
+
+- un jeu de données
+- une documentation détaillée et critique du *dataset*
+
+<!-- .element: style="font-size:1.8rem;" -->
+
+> Le corpus situé comprend intrinsèquement la question de recherche qui anime sa constitution, et permet surtout de la rejouer en rendant ses outils manipulables et exécutables.
+
+<!-- .element: style="font-size:1.6rem;" -->
+===
+
+Ce que ce passage par les archives institutionnelles de l'Internet et du Web nous ont finalement enseigné, c'est à reformuler la dénomination même du matériau dont nous avions besoin: 
+- ni une archive numérique (ce que produit l'institution à des fins de légitimation et de conservation), 
+- ni un corpus traditionnel (conçu comme un ensemble d'objets littéraires issu de cette archive et lui-même stabilisé), 
+- mais dans ce que nous proposons d'appeler un *corpus situé*, c'est-à-dire intégrant à la fois un jeu de données (*dataset*), les outils qui ont constitué ce jeu de données, ainsi que la documentation de ces outils et la critique de ce *dataset*. De fait, le corpus situé comprend intrinsèquement la question de recherche qui anime sa constitution, et permet surtout de la rejouer en rendant ses outils manipulables et exécutables. En ce qui nous concerne, les notebooks Jupyter constituent une infrastructure idéale pour construire ces corpus situés, comme nous allons à présent le démontrer.
+
+La question du périmètre d'une œuvre numérique -- et par extension de son archive -- devient d'autant plus sensible qu'elle va presque nécessairement, à un moment ou à un autre, aller dans le sens d'une approche plutôt qu'une autre, et donc favoriser une définition de la littérature numérique plutôt qu'une autre. Dans l'idéal, une archive de la littérature numérique devrait donc être la plus inclusive possible -- par "inclusion", nous entendons à la fois le type d'objet (le blogue, le réseau social, le site web, le texte, l'image, la vidéo, le podcast), mais également ses différentes couches techniques (son interface, son code, ses métadonnées, son réseau : likes, retweets), de manière à demeurer la moins prescriptive possible.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### Moissonner le Web vivant 
+
+&nbsp;
+
+#### Du paradigme de l'auteur à celui du collectif 
+
+#### Du corpus situé à sa généricisation
+
+
+===
+
+Assez rapidement, nous nous sommes tournés vers le Web vivant, et plus particulièrement sur les plateformes sociales qui jouent un rôle majeur dans l'élaboration du projet Marilyn, notamment en ce qui concerne sa dimension iconographique : Instagram, Facebook et Twitter. Pour le moment, nous nous sommes concentré sur Twitter, dont l'évolution récente des conditions d'accès donne présentement des sueurs froides aux chercheurs.
+
+Sans même parler de l'accès aux données, les seules fermetures de comptes consécutives aux décisions d'ellon musk viennent confirmer l'évanescence de nos corpus de recherche.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/perimetreTwitter.png" data-background-size="contain" -->
+
+![Notebook](./img/notebook-corpusAthanorster.png) <!-- .element: class="fragment" style="width:75%;" -->
+
+
+===
+
+Comment appréhender un corpus de *tweets*, *retweets*, de *threads* et de réponses ? Quelle conception de l'autorité se dessine à travers cette écriture profilaire résolument tournée vers la conversation, l'échange, la mise en réseau ? Comment calculer (et qualifier) le degré d'engagement des différents contributeur au projet ? 
+
+[fragment]
+
+Sur un plan méthodologique, nous avons opté pour l'utilisation d'un notebook Jupyter qui nous permettait une première approche exploratoire et collaborative, avant de tendre vers une méthode généricisable, c'est-à-dire applicable à d'autres corpus. Les carnets Jupyter combinent des éléments de code exécutables et des éléments d'écriture discursive. Ils articulent ainsi les scripts de collecte et de traitement des données, le résultat de ces scripts, et leur documentation et analyse, ouvrant un espace d'écriture susceptible de produire une herméneutique des données décrite par Stefan Sinclair et Geffrey Rockwell dans leur ouvrage *Hermeneutica*. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/perimetreTwitter.png" data-background-size="contain" -->
+
+
+![Notebook](./img/notebook-gitlab.png) <!-- .element: style="width:85%;" -->
+
+
+===
+
+En phase avec les pratiques du champ des humanités numériques, notre corpus et le carnet Jupyter créé pour le collecter et l'analyser sont rendus accessibles sur une forge logicielle, créant les conditions nécessaires à la réappropriation de la méthode. 
+
+Dans cette première approche, le notebook a également été idéal pour articuler une collecte et une analyse progressive, de manière justement à cerner et circonscrire pas à pas ce qu'on appelait "le projet marilyn". Cette articulation fine Collecte/Analyse nous semble parfaitement définir la notion de corpus situé. 
+
+<!-- [situé par rapport à une question de recherche, mais quid d'une "situation par rapport au terrain" -- cf discussion] -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/perimetreTwitter.png" data-background-size="contain" -->
+
+
+![Notebook Minet](./img/notebook-minet.png) <!-- .element: style="width:75%;" -->
+
+===
+
+Plusieurs librairies logicielles sont disponibles pour explorer et collecter des données sur les réseaux sociaux. Pour cette collecte, nous avons choisi la librairie _minet_ mise à disposition par le MediaLab de Sciences Po [@pelle_minet_2019]. Cette librairie hérite d'une part de l'approche résolument sciences humaines du MediaLab, et de son expérience en matière de collecte de données sur le Web vivant. Plus particulièrement, _minet_ a le mérite de proposer une méthode de collecte par scrapping, indépendante de l'API de Twitter et de sa politique d'accès pour le moins instable.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pixplot-umap.png" data-background-size="cover" -->
+
+Source : Corpuce "Projet Marilyn" (PixPlot, cluster view)
+
+<!-- .element: class="source" -->
+
+
+
+===
+
+Nous avons articulé cet outil avec d'autres outils, comme pixplot pour l'exploration et la catégorisation des images. Effectivement, dans ce projet photo-littéraire, les contributions en images et en photographies constituent évidemment un sous-corpus particuliers que l'on analyse en tant que tel.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pixplot-grid.png" data-background-size="cover" -->
+
+
+Source : Corpuce "Projet Marilyn" (PixPlot, grid view)
+
+<!-- .element: class="source" -->
+
+
+===
+c'est joli, alors on s'est permis, mais c'est encore plus joli en ligne, donc n'hésitez pas à interagir avec l'interface.
+
+merci simplement au DH Lab de Yale University qui a développé l'outil Pixplot. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/te-hashtags-network-l.png" data-background-size="cover" -->
+
+Source : Corpuce "Projet Marilyn" (TwitterExplorer, hashtags network)
+
+<!-- .element: class="source" -->
+
+===
+
+Ici c'est le résultat de twitter explorer (qui propose une analyse de réseau des hashtags ou des profils). Mais tout cela relèvera de l'analyse littéraire, or l'enjeu aujourd'hui est de rendre compte de notre démarche d'archivage et de constitution de corpus, et de la confronter aux pratiques institutionnelles discutées dans ce colloque.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/perimetreTwitter.png" data-background-size="contain" -->
+
+![read all tweets](img/read_all_tweets.png) <!-- .element: style="width:75%;" -->
+
+Source : Corpuce "Projet Marilyn" (export textes)
+
+<!-- .element: class="source" style="position:absolute; top:64%" -->
+
+
+===
+
+Le long du "fil d'Ariane" que constitue la page du profil Twitter d'\@athanorster (Anne Savelli), ou le long des différents fils sémantiques #marilyn ou #AlerteMarilyn, se déploie une écriture plurielle et plurimédiatique, faite de contributions diverses, destinées le plus souvent au projet, mais parfois simplement agrégées et accueillies au sein du projet au prétexte d'une collision de mots-clés. Cette écriture en mouvement révèle avant tout le caractère collectif du projet Marilyn, orchestré bien entendu par Anne Savelli, malgré tout joué et interprété par une communauté plus ou moins investie dans le temps, généralement bienveillante et joyeuse (on devine que certaines amitiés existent par delà le réseau), tissant des liens, enrichissant le fil de multiples singularités, de points de vue et de captations d'un réel bien plus large que celui d'Anne Savelli. 
+
+Cette pluralité de l'écriture va dans le sens d'un déplacement ou d'une évolution du concept d'auctorialité dans l'espace numérique. Les plateformes sociales sont effectivement devenues un terrain d'expérimentation littéraire propice à ce déplacement de l'auctorialité, désormais incarné dans un profil -- lui-même pris au cœur d'une dynamique d'éditorialisation. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corpus-archeo-2023-03-30-1627.png" data-background-size="contain" -->
+<!-- .slide: data-background-color="#eee" -->
+
+### Corpus <!-- .element: style="color:#666;float:right;margin-right:0em;" -->
+
+- `#alertemarilyn`, `#alertesmarilyn`, `#marilyneverywhere`, `#marilynmonroe`, `#monroe`, `#museemarilyn`, etc.
+- `@athanorster`, `@gilda_f`, `@joachimsene`, `@servanne_m`, `@liminaire`, `@BiblioVillon`, `@BoltonsMotors`, `@CarolienKrijnen`, `@MarilynAbarrot`, `@Melina1483`, etc.
+- `2014`-`2023`
+
+<!-- .element: style="font-size: 0.45em;color:#666;float:right;margin-left:40em;" -->
+
+
+===
+
+Sur Twitter, nous avons procédé à une collecte par tranche (ou carottage), mais plutôt que de fonctionner selon une logique en entonnoir (avec une collecte d'abord très massive dans laquelle nous aurions ensuite effectué un tri), nous avons procédé par petites touches, comme une fouille archéologique qui dévoile progressivement son terrain au fur et à mesure que la poussière est retirée. 
+
+Nous avons joué sur 3 facettes de recherche : hashtags, profils, période temporelle, la démarche a consisté à sonder, à catégoriser, puis à sélectionner les paramètres de requêtes constitutifs du projet littéraire. C'est une démarche qui nous a obligé à constamment alterner entre une approche de lecture distante et de lecture rapprochée. C'est ainsi que chaque hypothèse a pu être traduite en requête puis agrégée ou non au corpus complet, toujours de manière différenciée afin de pouvoir identifier les raisons d'un ajout au corpus.
+
+La succession des couches du corpus révèle une stratigraphie qui ne témoigne pas d'un temps qui passe, mais plutôt d'un engagement plus ou moins direct et actif dans le projet. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corpus-archeo-2023-03-30-1627.png" data-background-size="contain" -->
+<!-- .slide: data-background-color="#eee" -->
+
+![tweet marilynSavelli](img/tweet-marilynSavelli.png) <!-- .element: style="width:50%;float:right;margin-right:-3em;" -->
+
+===
+Ainsi, ce travail de qualification et de collecte "par petite touche" dessine progressivement deux périmètres : celui du corpus (constitué de micro-posts et des images associées), et celui du collectif. En effet, en définissant les contours du corpus, nous avons été obligé de définir ce qu'on entendait par collectif littéraire : 
+Puisque le projet est fondamentalement collectif, qui en sont les membres ? Quelle forme prend ce collectif ? 
+Doit-on établir des degrés de contributions, c'est-à-dire une typologie de l'engagement ? 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/collectif-2023-03-30-1627.png" data-background-size="contain" -->
+<!-- .slide: data-background-color="#eee" -->
+
+![marilyneverywhere cene](img/tweet-marilyneverywhere-cene.png) <!-- .element: style="width:45%;float:right;margin-right:-3em;" -->
+
+===
+
+Pour le dire autrement, les premiers coups de sonde nous fait comprendre que le "projet Marilyn" va bien au delà de "ce qu'a lu, traité ou répondu \@athanorster (alias anne savello)". Au contraire, son projet lui échappe, à travers des conversations parallèles et des initiatives indépendantes, reliées entre elles par les hashtags.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/archives-projet1-2023-03-30-1627.png" data-background-size="contain" -->
+
+
+===
+Mais comment être représentatif de la littérature numérique ? Le projet LIFRANUM présenté lundi s'est posé la même question, mais a finalement opté pour une autre stratégie, en se focalisant surtout sur les sites personnels d'auteurs, pour des raisons techniques notamment, délaissant alors toute la littérature de plateformes qui nous intéresse. 
+En ciblant des manifestations littéraires de l'ordre de ce qu'on a appelé "le projet littéraire", nous nous confrontons à un objet qui demande précision et peut-être complétion ?
+
+Par exemple, nos collecte sur twitter approche tout juste les 1000 fragments, loin des données massives permettant de convaincre l'intervention d'une institution patrimoniale, malgré la pertinence du corpus pour témoigner du fait littéraire numérique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/archives-projet2-2023-03-30-1627.png" data-background-size="contain" -->
+
+
+===
+
+@Servanne :
+
+On voit bien qu'avec une approche comme la nôtre, l'enjeu n'est plus de chercher la représentativité d'un phénomène, mais plutôt de mettre à jour ses multiples manifestations et d'identifier ainsi les frontières de son périmètre complet. 
+
+Nous découvrons ce territoire par petites avancées. Pour reprendre la métaphore de la fouille archéologique, il ne s'agit pas creuser à la pelleteuse (de manière représentative), mais plutôt d'épousseter centimètre par centimètre notre terrain et de repousser ainsi le périmètre de notre archive pour tendre vers l'exhaustivité du projet littéraire.
+
+Pour autant, même si ce terrain est limité, aux dimensions maîtrisables disons, son éparpillement dans le flux de Twitter ou d'Instagram impose une approche algorithmique de collecte, et donc la mise en place d'une méthode dédiée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/archives-projet2-2023-03-30-1627.png" data-background-size="contain" -->
+
+
+> «&nbsp;Qu’est-ce que collectionner ? Regarder, fasciné, une image ? Y revenir ? Se laisser happer par la quête, rien qu’elle, le désir de possession ? Délaisser l’objet, dont la valeur augmente une fois la collection rejointe, puisqu’il n’est plus à conquérir ?&nbsp;»
+>
+>Anne Savelli, *Musée Marilyn*, p. 226
+
+<!-- .element: style="font-size:1.8rem;background: rgba(20, 20, 20, 0.75);" -->
+
