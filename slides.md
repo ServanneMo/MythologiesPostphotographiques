@@ -140,7 +140,7 @@ La "Remédiation" photographique était alors conçue comme une rupture radicale
 <!-- .slide: data-background-image="img/azizCucher.jpg" data-background-size="contain" -->
 
 
-source image : Aziz + Cutcher
+Aziz + Cutcher, *Dystopia*, 1994-1995
 
 <!-- .element: class="source" -->
 
@@ -161,6 +161,10 @@ Et il faut dire que sur ce point, ils n'ont pas tout à fait tort. Mais ils n'on
 <!-- .slide: data-background-image="img/barthesGI.png" data-background-size="contain" -->
 
 
+Roland Barthes par Google Image
+
+<!-- .element: class="source" -->
+
 ===
 
 Petite expérience de Kenneth Goldmisth.
@@ -172,19 +176,34 @@ Petite expérience de Kenneth Goldmisth.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
 
+Fichier .jpg
+
+<!-- .element: class="source" -->
+
 ===
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthesImageCode.png" data-background-size="contain" -->
 
+Fichier .txt
+
+<!-- .element: class="source" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthesCoding.png" data-background-size="contain" -->
 
 
+Fichier .txt - Barthes en Barthes
+
+<!-- .element: class="source" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/barthes2modif.jpg" data-background-size="contain" -->
+
+
 
 ===
 
@@ -197,7 +216,7 @@ L'expérience de Godlsmith montre deux choses :
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corinnevionnet_photoopportunities_800px_120-8405f.jpg" data-background-size="contain" -->
 
-source image : Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
+Corinne Vionnet, *Photo Opportunities*, 2005-ongoing.
 
 <!-- .element: class="source" -->
 
@@ -224,9 +243,13 @@ C'est le cas par exemple de F. BON
 
 ### Une post-photolittérature ?
 
-><p>J’aurais disposé d’un appareil-photo numérique plus tôt dans ma vie, que je pourrais aussi retourner me promener à Berlin ou Bombay mais c’est comme ça : les appareils-photo existaient mais faisaient de la photographie, alors que les petits appareils numériques documentent c’est différent. Tentation de m’acheter une de ces petites caméras pour sportifs et de la faire tourner en continu à ma ceinture pour avoir trace de tout ça, les mots, les moments.</p><p>François Bon</p>
+>J’aurais disposé d’un appareil-photo numérique plus tôt dans ma vie, que je pourrais aussi retourner me promener à Berlin ou Bombay mais c’est comme ça : les appareils-photo existaient mais faisaient de la photographie, alors que les petits appareils numériques documentent c’est différent. Tentation de m’acheter une de ces petites caméras pour sportifs et de la faire tourner en continu à ma ceinture pour avoir trace de tout ça, les mots, les moments.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+>François Bon
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
 
 ===
 
@@ -255,26 +278,26 @@ Les travaux de Bolter et Grusin s'inscrivent avant tout dans les *media studies*
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
 
-source image : Google Image
+Université de Montréal (Source : Google Image)
 
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM1.png" data-background-size="contain"-->
 
-source image : PixlR-omatic
+Interface PixlR-omatic
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM2.png" data-background-size="contain"-->
 
-source image : PixlR-omatic
+Interface PixlR-omatic
 
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM3.png" data-background-size="contain"-->
 
-source image : PixlR-omatic
+Interface PixlR-omatic
 
 <!-- .element: class="source" -->
 
@@ -306,7 +329,12 @@ d'en repenser la douleur.
 
 >&mdash; Justement ce sont mes cicatrices que je cherche à retrouver.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+>Atiq Rahimi, *Le retour imaginaire*
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
 
 ===
 
@@ -345,7 +373,11 @@ Plus encore : comme si elle pouvait les performer (*Je cherche à faire revivre
 
 >« non, ce genre d'appareil n'est pas fait pour photographier des situations : tout va être flou, les personnages comme les objets. »
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+>Atiq Rahimi, *Le retour imaginaire*
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
 
 ===
 
@@ -421,6 +453,7 @@ En conclusion, l'usage du sténopé se conçoit moins comme une stratégie de r�
 ![](img/postcardsvalla-35d9b.jpg)<!-- .element: style="width:600px" -->
 
 
+
 ===
 
 Autre aspect, plus ontologique cette fois, quelle relation la photo dessine-t-elle avec le réel ? La relation photolittéraire à creuser ici est celle de la relation entre l'idée du voir (qu'est-ce qu'une image donne à voir), et du savoir (qu'est-ce qu'une image donne à comprendre du réel) ?
@@ -439,6 +472,10 @@ Puisque je parle ici de conception du monde, je vais prendre un exemple très co
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Gearth.png" data-background-size="contain"-->
 
+Interface Google Earth (2010)
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -449,6 +486,10 @@ Les technologies numériques nous ont offert de nouveaux outils pour habiter et 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/great_globe-22876.png" data-background-size="contain"-->
 
+*Great Globe* de James Wyld (Londres, 1851).
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -457,6 +498,10 @@ Au dix-neuvième siècle déjà, les panoramas et les géoramas offraient au spe
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/SP1224_13.png" data-background-size="contain"-->
+
+Google - street view Trek
+
+<!-- .element: class="source" -->
 
 
 ===
@@ -474,6 +519,9 @@ Cette tendance est palpable à travers des projets tels que les « Street View T
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/postcardsvalla-35d9b.jpg" data-background-size="contain"-->
 
+Clément Valla, *Postcard from Google Earth*, 2010-ongoing
+
+<!-- .element: class="source" -->
 
 ===
 
@@ -481,7 +529,12 @@ Heureusement pour nous, le logiciel a parfois des ratés, ou des effets d'étran
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Finnmark-2010.jpeg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/tumblr_8483e93c5e357b7fbdeed682f2e8a204_dad7e0ee_1280.jpg" data-background-size="contain"-->
+
+Jon Rafman, *9 eyes*, 2008-ongoing
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -494,9 +547,14 @@ Les écrivains ne sont pas en reste : ils ont été nombreux ces dernières ann�
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Google Street View est un révélateur de notre expérience du monde et de notre rapport au temps, et en particulier de la paradoxale tension entre notre indifférence quotidienne aux choses qui nous entourent, et notre incessante recherche de connexion et d’interaction. C’est l’occasion de porter sur Google et le monde qu’il dessine, un nécessaire regard critique, une analyse de la représentation du monde que nous proposent Google Maps, Google Earth et Google Street View (Ménard et Savelli 2015).
+>Google Street View est un révélateur de notre expérience du monde et de notre rapport au temps, et en particulier de la paradoxale tension entre notre indifférence quotidienne aux choses qui nous entourent, et notre incessante recherche de connexion et d’interaction. C’est l’occasion de porter sur Google et le monde qu’il dessine, un nécessaire regard critique, une analyse de la représentation du monde que nous proposent Google Maps, Google Earth et Google Street View.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+>Ménard et Savelli 2015
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
 
 
 ===
@@ -854,9 +912,10 @@ Ici c'est le résultat de twitter explorer (qui propose une analyse de réseau d
 
 ![read all tweets](img/read_all_tweets.png) <!-- .element: style="width:75%;" -->
 
+
 Source : Corpuce "Projet Marilyn" (export textes)
 
-<!-- .element: class="source" style="position:absolute; top:64%" -->
+<!-- .element: class="source" -->
 
 
 ===
@@ -944,3 +1003,6 @@ Pour autant, même si ce terrain est limité, aux dimensions maîtrisables dison
 
 <!-- .element: style="font-size:1.8rem;background: rgba(20, 20, 20, 0.75);" -->
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+### Merci
